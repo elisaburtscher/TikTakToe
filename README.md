@@ -1,5 +1,7 @@
 # TikTakToe
 
+This project is a tictactoe game.
+
 Code written in Word-Document in Python.
 
 To use dataset:
